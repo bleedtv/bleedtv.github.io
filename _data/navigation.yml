@@ -1,0 +1,8 @@
+# main links
+main:
+  - title: "About"
+    url: /about
+  # - title: "Podcasts"
+  #   url: https://example.com
+  # - title: "Latest Episodes"
+  #   url: /year-archive/
