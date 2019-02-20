@@ -1,2 +1,7 @@
 # bleedtv.github.io
-BleedTV Webpage
+
+Website for BleedTV Podcast.
+
+## Theme
+
+[mmistakes/minimal-mistakes](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide)
