@@ -1,0 +1,8 @@
+---
+title: TWD The Walking Dead S9E1 "A New Beginning" by AMC
+date: 2018-10-12
+---
+
+<p><strong>BleedTV</strong> covers <em>The Walking Dead Season 9 Episode 1 "A New Beginning"</em> - A year and half later and Walking alumi still pulling the same stunts to create danger and tension! Was it better or worse? Ether way Angela Kang brings a new presepctive to show and bringing it back to roots- sorta...</p>
+<p>Send us your comments and feedback to bleedtvpodcast@gmail.com , @bleedtvpodcast on twitter, and or our Facebook page. </p>
+<p>Subscribe and would appreciate any positive reviews on Itunes or Stitcher.</p>
