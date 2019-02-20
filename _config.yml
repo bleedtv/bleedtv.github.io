@@ -12,7 +12,7 @@ twitter:
 markdown: kramdown
 theme: minimal-mistakes-jekyll
 
-paginate: 3
+paginate: 5
 paginate_path: /page:num/
 
 repository: bleedtv/bleedtv.github.io
